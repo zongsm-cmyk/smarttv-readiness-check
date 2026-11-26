@@ -2,7 +2,11 @@
 
 A free, independent offline tool for assessing Full HD and 4K readiness when playing media you own or are authorized to use.
 
-## [Download the original free ZIP](https://askoure-systems.floot.app/_cdn/static/SmartTV_Readiness_Check_WhatsApp_v1.1_Licensed.zip)
+## [Download the original free ZIP (GitHub release)](https://github.com/zongsm-cmyk/smarttv-readiness-check/releases/download/v1.1/1795692597413_SmartTV_Readiness_Check_WhatsApp_v1.1_Licensed.zip)
+
+[Alternative original download (Floot mirror)](https://askoure-systems.floot.app/_cdn/static/SmartTV_Readiness_Check_WhatsApp_v1.1_Licensed.zip)
+
+GitHub's native aggregate release-asset download counter measures requests to the primary link. It does not identify individual users or count mirror downloads; no tracking code is added to the package.
 
 - Extract the ZIP and open `SmartTV_Readiness_Check_WhatsApp.html` in your browser.
 - Enter your measured download speed, screen resolution, playback device capabilities and licensed media source resolution.
